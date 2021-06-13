@@ -10,8 +10,8 @@
 #ifndef __WIFI_CONFIGURATION__
 #define __WIFI_CONFIGURATION__
 
-#define WIFI_SSID "DAP"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "Chino"
+#define WIFI_PASS "Lht_Yecgaa"
 
 
 #define USE_STATIC_IP 1
